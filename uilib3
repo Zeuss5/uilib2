@@ -2168,5 +2168,5 @@ do
 	end
 end
 
-print("dino was here :\)")
+print("It's just the gaming chair.")
 return library
